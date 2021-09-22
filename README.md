@@ -12,7 +12,7 @@ Le pdf explique notre démarche en quatre étapes. <br>
 
 - Télécharger le fichier [chromosome.zip](https://drive.google.com/file/d/10mNQQci91k7KldJt2jK71mTfg27Om9w5/view?usp=sharing)
 - Le déposer à la racine de son drive 
-- Utiliser ce [notebook](https://colab.research.google.com/drive/1PfoegBEAkXSoovWabKU0z8yc_N1LOUzQ?authuser=1#scrollTo=Eej-aHjZut1Y "Extract_zip") pour extraire le fichier zip dans le drive.
+- Utiliser ce [notebook](https://colab.research.google.com/drive/1PfoegBEAkXSoovWabKU0z8yc_N1LOUzQ "Extract_zip") pour extraire le fichier zip dans le drive.
 - Une fois terminé, aller sur son drive puis dans le dossier chromosomes et ouvrir le fichier main.ipynb
 
 ![image](/images/result.png)
